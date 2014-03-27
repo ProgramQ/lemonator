@@ -6,5 +6,5 @@ The World's Greatest Lemonade Battle Simulator
 Funding
 =========
 * Joshcorp
-* The peoples republic of Benchland
+* United Social Benchland Republics
 * Lemonade stands
