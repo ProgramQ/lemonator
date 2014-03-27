@@ -2,3 +2,9 @@
 =========
 
 The World's Greatest Lemonade Battle Simulator
+
+Funding
+=========
+* Joshcorp
+* The peoples republic of Benchland
+* Lemonade stands
