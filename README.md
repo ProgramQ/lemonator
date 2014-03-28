@@ -1,10 +1,3 @@
-![logo](https://raw.githubusercontent.com/ProgramQ/lemonator/master/resources/logo.png)
-=========
+![Logo](https://raw.githubusercontent.com/BenchLord/Uber-Lemon/master/logo.png)
 
-The World's Greatest Lemonade Battle Simulator
-
-Funding
-=========
-* Joshcorp
-* United Social Benchland Republics
-* Lemonade stands
+so much lemon, soooooo much lemon!
